@@ -1,9 +1,29 @@
-## Tugas Algoritma
-**Nama:** Panji Hasan                   
-**NIM:** [251011701109]  
-**Matkul:** Algoritma dan Pemrograman  
+# 📂 Repository Tugas Algoritma Dan Struktur Data
+**Nama:** Panji Hasan
+**NIM:** 251011701109
+**Program Studi:** Sistem Informasi - Universitas Pamulang
 
-## Jalankan Program
-Klik tombol di bawah ini untuk menjalankan kode langsung di browser:
+---
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Felinaise/felina/blob/main/TugasAlgo.ipynb)
+## 🚀 Daftar Tugas Kuliah
+
+### [Pertemuan 4] - Logika Dasar & Aritmatika
+Tugas ini berfokus pada penggunaan struktur perulangan (Looping) dan operasi matematika dasar.
+* **Soal 1:** FizzBuzz (Logika Modulus & If-Else).
+* **Soal 2:** Konversi Hari (Operasi Aritmatika Tahun, Bulan, Hari).
+
+👉 [**JALANKAN KODE PERTEMUAN 4**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Algoritma%20Tes.ipynb)
+
+---
+
+### [Pertemuan 5] - Manipulasi Data & Matriks
+Tugas ini berfokus pada pengolahan dataset mahasiswa serta pemahaman operasi pada Array 2 Dimensi.
+* **Tugas 1:** Analisis Nilai (Rata-rata, Nilai Maksimum & Minimum).
+* **Tugas 2:** Operasi Matriks (Penjumlahan, Pengurangan, & Perkalian Matriks).
+
+👉 [**JALANKAN KODE PERTEMUAN 5**](https://colab.research.google.com/github/ramadhanifirdaus84/ramadhanif/blob/main/Tugas%20Pertemuan%205.ipynb)
+
+---
+
+
+*Dibuat dengan ❤️ oleh Ramadhani Firdaus untuk tugas mata kuliah Algoritma.*
