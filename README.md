@@ -1,6 +1,6 @@
 # 📂 Repository Tugas Algoritma Dan Struktur Data
-**Nama:** Panji Hasan
-**NIM:** 251011701109
+**Nama:** Panji Hasan            
+**NIM:** 251011701109                    
 **Program Studi:** Sistem Informasi - Universitas Pamulang
 
 ---
